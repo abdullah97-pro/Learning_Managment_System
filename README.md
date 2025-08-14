@@ -22,9 +22,3 @@ A comprehensive and customizable Learning Management System (LMS) designed to st
 - Provide a scalable LMS for schools, universities, and training centers
 - Support both synchronous and asynchronous learning
 - Enable easy integration with third-party tools and APIs
-
-### Stay Connected
-If you enjoy this project and want to see more of my work, feel free to check out and follow my second GitHub account for additional repositories, updates, and experiments:
-
-Follow me on GitHub @abdullah97-pro
-Your support means a lot and helps me keep building awesome things!
